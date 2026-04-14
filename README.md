@@ -1,4 +1,4 @@
-# Instagram_analysis
+# Instagram_Analysis
 # 📸 Instagram Analytics — SQL Challenge
 
 > A deep-dive SQL analysis of Instagram content performance, audience growth, and engagement patterns for a virtual internship challenge.
@@ -188,55 +188,3 @@ ORDER BY total_likes DESC;
 
 ---
 
-## 💡 Key Insights
-
-| # | Insight | Implication |
-|---|---------|-------------|
-| 1 | **Reels drive ~42% of total reach** | Prioritise short-form video in content calendar |
-| 2 | **Weekend engagement is 38–52% higher** | Schedule key posts on Fri–Sun for max impact |
-| 3 | **Travel content grows 100% Q1→Q3** | Align brand deals and campaigns to Q3 |
-| 4 | **Profile visit-to-follow rate ≈ 14.8%** | Optimise bio & highlights to push towards 18%+ |
-| 5 | **Top follower days cluster around Reels** | Use ranked window queries to find viral dates |
-
----
-
-## 📁 Repository Structure
-
-```
-instagram-analytics/
-│
-├── instagram_analysis.sql       # All SQL queries (annotated)
-├── README.md                    # This file
-├── presentation/
-│   └── Instagram_Analytics_Presentation.pptx
-└── assets/
-    └── schema_diagram.png       # (optional — ER diagram)
-```
-
----
-
-## 🚀 How to Run
-
-1. Import the database into MySQL Workbench or any MySQL-compatible client
-2. Set the schema to `gdb0120`
-3. Run queries from `instagram_analysis.sql` sequentially or individually
-4. Each query is self-contained and can be run independently
-
-```sql
-USE gdb0120;
--- Then run any query from instagram_analysis.sql
-```
-
----
-
-## 👤 Author
-
-**Your Name**  
-Virtual Internship — Instagram Analytics Challenge · April 2026  
-[LinkedIn](https://linkedin.com/in/yourname) · [GitHub](https://github.com/yourname)
-
----
-
-## 📄 License
-
-This project is submitted as part of a virtual internship challenge. SQL queries and analysis are original work.
