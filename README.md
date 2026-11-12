@@ -30,7 +30,7 @@ saves
 shares
 ```
 ### Analytical Dashboard
-![DNS capture](https://github.com/prachikarsrung/Network-Traffic-Analysis-with-Wireshark/blob/main/dns.png)
+![DNS capture](https://github.com/prachikarsrung/Instagram_analysis/blob/main/Instagram_visual.png)
 
 
 ---
