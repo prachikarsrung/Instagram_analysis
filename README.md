@@ -29,8 +29,8 @@ comments
 saves
 shares
 ```
-## Presentation
-![DNS capture](https://drive.google.com/file/d/1hapKuomxEWje0ejJIlr3b0txeMVgIuNr/view?usp=drive_link)
+## Presentation of visual
+[PPT](https://drive.google.com/file/d/1hapKuomxEWje0ejJIlr3b0txeMVgIuNr/view?usp=drive_link)
 ### Analytical Dashboard
 ![DNS capture](https://github.com/prachikarsrung/Instagram_analysis/blob/main/Instagram_visual.png)
 
