@@ -29,7 +29,9 @@ comments
 saves
 shares
 ```
-[Dashboard](https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/streaming_analysis.pdf)
+### Analytical Dashboard
+![DNS capture](https://github.com/prachikarsrung/Network-Traffic-Analysis-with-Wireshark/blob/main/dns.png)
+
 
 ---
 
