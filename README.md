@@ -10,7 +10,7 @@
 This project analyses an Instagram creator's performance data using MySQL. The goal is to surface actionable insights on post reach, audience engagement, follower growth, and content strategy using structured SQL queries across a star-schema database.
 
 **Tools Used:** MySQL · SQL Window Functions · CTEs · Aggregate Functions  
-**Database:** `gdb0120` — star schema with `fact_content`, `fact_account`, and `dim_dates`
+
 
 ---
 
@@ -29,6 +29,7 @@ comments
 saves
 shares
 ```
+[Dashboard](https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/streaming_analysis.pdf)
 
 ---
 
