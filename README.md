@@ -35,6 +35,40 @@ shares
 
 
 ---
+# Wavecon Telecom: 5G Launch Impact Analysis
+
+A business intelligence analysis of how Wavecon Telecom's 5G launch affected revenue, customers, plans, and market position (Jan to Sep 2022). Completed as part of the Codebasics Virtual Internship with AtliQ Technologies.
+
+## Presentation
+[View the full presentation](Wavecon_5G_Analysis.pptx)
+
+## Business Questions
+1. What was the revenue impact of the 5G launch?
+2. Which KPIs underperformed after launch?
+3. Which plans did well, and which did not?
+4. Should any plans be discontinued, and why?
+5. Were any plans discontinued after 5G, and what drove that?
+
+## Key Findings
+
+| Metric | Before 5G | After 5G | Change |
+|---|---|---|---|
+| Revenue | ₹1,506 Cr | ₹1,265 Cr | -16.0% |
+| ARPU (avg revenue per user) | ₹190.2 | ₹211.5 | +11.2% |
+| Active users | 7.98M | 7.71M | -3.4% |
+| Unsubscribed users | 1.01M | 1.22M | +20.8% |
+
+- **Revenue:** Fell after launch, with a steady month-on-month decline in Q3 2022.
+- **Customers:** Each customer paid more, but more customers left.
+- **Plans:**
+  - Growing: Smart Recharge, Ultra 5G, Data Booster
+  - Declining: Basic Talk, 1-Day Prepaid
+  - Discontinued: Legacy 3G Pack (obsolete technology, near-zero users, under 0.5% of revenue)
+- **Market share:** Wavecon (Atliqo) dropped 2 points to 23%, while Dadafone gained 3 points to lead at 28%.
+- **Cities:** Delhi (-20.0%) and Mumbai (-18.6%) had the steepest declines. Hyderabad (-3.6%) and Ahmedabad (-3.8%) held up best.
+
+
+
 ### Presentation of visual - [PPT](https://drive.google.com/file/d/1hapKuomxEWje0ejJIlr3b0txeMVgIuNr/view?usp=drive_link)
 ## 🔍 Queries & Business Questions
 
