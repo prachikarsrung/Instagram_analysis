@@ -40,7 +40,7 @@ shares
 A business intelligence analysis of how Wavecon Telecom's 5G launch affected revenue, customers, plans, and market position (Jan to Sep 2022). Completed as part of the Codebasics Virtual Internship with AtliQ Technologies.
 
 ## Presentation
-[View the full presentation](Wavecon_5G_Analysis.pptx)
+[View the full presentation](https://drive.google.com/file/d/1hapKuomxEWje0ejJIlr3b0txeMVgIuNr/view?usp=drive_link)
 
 ## Business Questions
 1. What was the revenue impact of the 5G launch?
@@ -69,7 +69,7 @@ A business intelligence analysis of how Wavecon Telecom's 5G launch affected rev
 
 
 
-### Presentation of visual - [PPT](https://drive.google.com/file/d/1hapKuomxEWje0ejJIlr3b0txeMVgIuNr/view?usp=drive_link)
+
 ## 🔍 Queries & Business Questions
 
 ### 1. Explore Post Types & Impression Range
